@@ -1,1 +1,1 @@
-# Dnamic-Day-Planner
+# Dynamic-Day-Planner
