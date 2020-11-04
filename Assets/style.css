@@ -77,3 +77,26 @@ textarea{
   transition: all .3s ease-in-out;
 }
 
+/* Media Query for >500px*/
+@media only screen and (max-width: 500px) {
+  
+  body{
+    max-width: 420px;
+  }
+
+  .h1{
+    font-size: x-small;
+  }
+  .container {
+    max-width: 400px;
+    
+  }
+  .time-block{
+    margin-bottom: 50px;
+    min-height: 100px;
+  }
+  .saveBtn {
+    min-height: 25px;
+    margin-bottom: 10px;
+  }
+}
